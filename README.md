@@ -1,4 +1,3 @@
 # Climate Action :: Game Characters
-<html>
-<img src="D:\Sara\STRC\Characters\Final\The Innocent.png">
-</html>
+
+![The Innocent](https://user-images.githubusercontent.com/86942363/166801733-3039a88e-cb56-49b2-8acc-b5f2e8bea482.png)
