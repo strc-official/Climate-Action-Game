@@ -9,4 +9,4 @@
 
 <h2> The Sophisticated : </h2>
 
-![sophisticated_white](https://user-images.githubusercontent.com/86942363/166867117-0564c9a0-fd4d-483d-a1bb-5cd008733918.png)
+![The Sophisticated](https://user-images.githubusercontent.com/86942363/166883674-026cdda8-5e19-450f-95be-3f872f549ee1.png)
