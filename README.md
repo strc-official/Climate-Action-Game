@@ -16,3 +16,9 @@
 <h2> The Explorer : </h2>
 
 ![The Explorer](https://user-images.githubusercontent.com/86942363/168325226-81ebbe6e-5c9b-4104-bf30-0a1da3881802.png)
+
+<hr>
+<hr>
+
+<h3> All Characters </h3>
+![characters](https://user-images.githubusercontent.com/86942363/168326932-80a5b81a-3f3a-41b5-b431-8bd6325fde12.png)
