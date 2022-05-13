@@ -10,3 +10,9 @@
 <h2> The Sophisticated : </h2>
 
 ![The Sophisticated](https://user-images.githubusercontent.com/86942363/166952850-ce7137fd-3ce2-404f-af45-27f425765d2c.png)
+
+<hr>
+
+<h2> The Explorer : </h2>
+
+![The Explorer](https://user-images.githubusercontent.com/86942363/168325226-81ebbe6e-5c9b-4104-bf30-0a1da3881802.png)
