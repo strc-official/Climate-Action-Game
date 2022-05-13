@@ -21,4 +21,5 @@
 <hr>
 
 <h3> All Characters </h3>
-![characters](https://user-images.githubusercontent.com/86942363/168326932-80a5b81a-3f3a-41b5-b431-8bd6325fde12.png)
+
+![characters](https://user-images.githubusercontent.com/86942363/168327048-a1cc4357-26e1-499a-9b36-5f0255c85d23.png)
